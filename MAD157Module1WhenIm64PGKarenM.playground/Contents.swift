@@ -22,7 +22,7 @@ class CalculateYearAt64 {
     
     func printYearAtAge() {
         
-        print("\n You were born in the year: \(yearBorn). --> You will therefore be 64 years old in the year: \(yearAt64)")
+        print("\n You were born in the year: \(yearBorn). --> Therefore, you will be 64 years old in the year: \(yearAt64)")
     }
     
 }
